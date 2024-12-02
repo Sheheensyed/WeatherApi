@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
+    /* font-family: "Catamaran", serif;
+  font-optical-sizing: auto;
+  font-weight:600;
+  font-style: normal; */
+}
+
+#mainBg{
+    height: 100vh;
+    background-image: url('https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/8103728/169908_306061.png');
+    background-size: cover;
+}
+
+#areaImg{
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/008/599/209/small_2x/demure-pink-and-diluted-blue-gradient-motion-background-loop-video.jpg');
+    background-size: cover;
+}
